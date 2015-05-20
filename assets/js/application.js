@@ -79,7 +79,7 @@ var app = {
         $('#page-store').addClass('hide');
         $('#shoppingCart').addClass('hide');
         $('#page-home').addClass('hide');
-        $('#preview').append('<h1 id="gateway">Here is where you would fill in your details</h1>');
+        $('#preview').append('<h1 id="gateway">Here is where you would fill in your card details</h1>');
       }
     });
   },
