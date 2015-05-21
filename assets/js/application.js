@@ -6,12 +6,12 @@ var app = {
    */
   cart: null,
   items: [
-    {id: 1, name: 'Rufus', description: 'Small descriptive text placeholder', price: 560.00},
-    {id: 2, name: 'Ruby', description: 'Small descriptive text placeholder', price: 560.00},
-    {id: 3, name: 'Spot', description: 'Small descriptive text placeholder', price: 560.00},
-    {id: 4, name: 'Bruce', description: 'Small descriptive text placeholder', price: 560.00},
-    {id: 5, name: 'Ben', description: 'Small descriptive text placeholder', price: 560.00},
-    {id: 6, name: 'Honey', description: 'Small descriptive text placeholder', price: 560.00}
+    {id: 1, name: 'Rufus', description: 'Rufus the dog', price: 560.00},
+    {id: 2, name: 'Ruby', description: 'Ruby the dog', price: 560.00},
+    {id: 3, name: 'Spot', description: 'Spot the dog', price: 560.00},
+    {id: 4, name: 'Bruce', description: 'Bruce the dog', price: 560.00},
+    {id: 5, name: 'Ben', description: 'Ben the dog', price: 560.00},
+    {id: 6, name: 'Honey', description: 'Honey the dog', price: 560.00}
   ],
   init: function () {
     var $this = this;
