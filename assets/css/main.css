@@ -29,13 +29,13 @@
 .spread header:before,.spread header:after{
 	content:" ";display:table
 }
-.spread header:after{clear:both}.spread header hgroup h1{
+.spread header:after{clear:both}.spread header /*hgroup*/ h1{
 	font-style:italic;font-size:4rem;line-height:4.5rem;margin:0
 }
-.spread header hgroup h2{
+.spread header /*hgroup*/ h2{
 	margin:0;padding-top:0;font-family:"Montez",cursive;font-size:2rem
 }
-.spread header hgroup h3{
+.spread header /*hgroup*/ h3{
 	font-size:2rem;margin-top:2rem
 }
 #preview{
